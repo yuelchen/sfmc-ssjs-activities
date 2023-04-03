@@ -1,4 +1,4 @@
 Name, Data Type, Length, Primary Key, Nullable, Default Value
 LOG_LEVEL, TEXT, 10, TRUE, FALSE, 
-LOG_TIMESTAMP, DATE, , TRUE, , Current Date 
+LOG_TIMESTAMP, DATE, , TRUE, FALSE, Current Date 
 LOG_MESSAGE, TEXT, 4000, FALSE, TRUE, 
